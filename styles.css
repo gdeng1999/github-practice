@@ -1,0 +1,49 @@
+header, nav{
+    height: 10px;
+}
+
+
+.border{
+   border: 1p solid black; 
+}
+
+.float left{
+    float: left;
+}
+
+#section_article_column{
+    width: 65%
+}
+
+#aside_column{
+    width:35%
+}
+section, article{
+    height: 338px
+}
+
+aside{
+height: 680px
+}
+
+header{
+    background-color: blanchedalmond;
+}
+
+nav{
+    background-color: deeppink;
+}
+
+section{
+    background-color: cyan;
+}
+
+
+article{
+    background-color: grey;
+}
+
+footer{
+    background-color: indianred;
+    clear: left
+}
